@@ -1,0 +1,12 @@
+sun/applet
+sun/corba
+sun/swing
+sun/awt
+sun/java2d
+com/sun/corba
+com/sun/swing
+com/sun/org
+java/applet
+java/awt
+javax/swing
+org/omg
